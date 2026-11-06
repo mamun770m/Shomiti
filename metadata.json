@@ -1,0 +1,6 @@
+{
+  "name": "হিলফুল ফুজুল সমবায় সমিতি (Hilful Fuzul Cooperative Society)",
+  "description": "Advanced Digital Accounting, Double-Entry Ledger & Member Management System for Hilful Fuzul Cooperative Society (2019–2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

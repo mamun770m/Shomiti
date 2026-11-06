@@ -1,0 +1,1553 @@
+{
+  "source_file": "Shomiti Hishab English (1).xlsx",
+  "sheets": [
+    {
+      "sheet": "2019",
+      "member_blocks_detected": 12,
+      "monthly_rows_extracted": 144,
+      "max_row": 870,
+      "max_column": 9
+    },
+    {
+      "sheet": "2020",
+      "member_blocks_detected": 12,
+      "monthly_rows_extracted": 144,
+      "max_row": 870,
+      "max_column": 9
+    },
+    {
+      "sheet": "2021",
+      "member_blocks_detected": 12,
+      "monthly_rows_extracted": 144,
+      "max_row": 870,
+      "max_column": 9
+    },
+    {
+      "sheet": "2022",
+      "member_blocks_detected": 12,
+      "monthly_rows_extracted": 144,
+      "max_row": 870,
+      "max_column": 9
+    },
+    {
+      "sheet": "2023",
+      "member_blocks_detected": 12,
+      "monthly_rows_extracted": 144,
+      "max_row": 870,
+      "max_column": 9
+    },
+    {
+      "sheet": "2024",
+      "member_blocks_detected": 12,
+      "monthly_rows_extracted": 144,
+      "max_row": 870,
+      "max_column": 9
+    },
+    {
+      "sheet": "2025",
+      "member_blocks_detected": 12,
+      "monthly_rows_extracted": 144,
+      "max_row": 194,
+      "max_column": 9
+    },
+    {
+      "sheet": "2026",
+      "member_blocks_detected": 12,
+      "monthly_rows_extracted": 144,
+      "max_row": 1000,
+      "max_column": 11
+    }
+  ],
+  "unique_member_id_name_pairs": 27,
+  "monthly_rows_extracted": 1152,
+  "warnings_count": 148,
+  "warnings_sample": [
+    {
+      "sheet": "2019",
+      "row": 23,
+      "type": "payment_date_year_mismatch",
+      "member_id": "04",
+      "member_name": "Md. Minar Hossain",
+      "month": "March",
+      "date_raw": "15/2/20",
+      "accounting_year": 2019
+    },
+    {
+      "sheet": "2019",
+      "row": 30,
+      "type": "payment_date_year_mismatch",
+      "member_id": "04",
+      "member_name": "Md. Minar Hossain",
+      "month": "October",
+      "date_raw": "15/1/20",
+      "accounting_year": 2019
+    },
+    {
+      "sheet": "2019",
+      "row": 31,
+      "type": "payment_date_year_mismatch",
+      "member_id": "04",
+      "member_name": "Md. Minar Hossain",
+      "month": "November",
+      "date_raw": "15/1/20",
+      "accounting_year": 2019
+    },
+    {
+      "sheet": "2019",
+      "row": 32,
+      "type": "payment_date_year_mismatch",
+      "member_id": "04",
+      "member_name": "Md. Minar Hossain",
+      "month": "December",
+      "date_raw": "15/2/20",
+      "accounting_year": 2019
+    },
+    {
+      "sheet": "2019",
+      "row": 78,
+      "type": "payment_date_year_mismatch",
+      "member_id": "07",
+      "member_name": "Mst. Sabila Yasmin",
+      "month": "October",
+      "date_raw": "15/10/209",
+      "accounting_year": 2019
+    },
+    {
+      "sheet": "2019",
+      "row": 111,
+      "type": "date_needs_manual_review",
+      "member_id": "10",
+      "member_name": "Md. Masudur Rahman",
+      "month": "November",
+      "date_raw": "15//11/2019",
+      "accounting_year": 2019
+    },
+    {
+      "sheet": "2019",
+      "row": 128,
+      "type": "payment_date_year_mismatch",
+      "member_id": "11",
+      "member_name": "Abu kausar Bhuyan",
+      "month": "December",
+      "date_raw": "13/12/3019",
+      "accounting_year": 2019
+    },
+    {
+      "sheet": "2019",
+      "row": 165,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "January",
+      "date_raw": "2020-12-02T00:00:00",
+      "accounting_year": 2019
+    },
+    {
+      "sheet": "2019",
+      "row": 166,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "February",
+      "date_raw": "17/3/2020",
+      "accounting_year": 2019
+    },
+    {
+      "sheet": "2019",
+      "row": 181,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "January",
+      "date_raw": "2020-12-02T00:00:00",
+      "accounting_year": 2019
+    },
+    {
+      "sheet": "2019",
+      "row": 182,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "February",
+      "date_raw": "17/3/2020",
+      "accounting_year": 2019
+    },
+    {
+      "sheet": "2020",
+      "row": 119,
+      "type": "date_needs_manual_review",
+      "member_id": "11",
+      "member_name": "Abu kausar Bhuyan",
+      "month": "March",
+      "date_raw": "6/3/2020)",
+      "accounting_year": 2020
+    },
+    {
+      "sheet": "2020",
+      "row": 137,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "May",
+      "date_raw": "2021-02-08T00:00:00",
+      "accounting_year": 2020
+    },
+    {
+      "sheet": "2020",
+      "row": 138,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "June",
+      "date_raw": "2021-02-08T00:00:00",
+      "accounting_year": 2020
+    },
+    {
+      "sheet": "2020",
+      "row": 139,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "July",
+      "date_raw": "2021-02-08T00:00:00",
+      "accounting_year": 2020
+    },
+    {
+      "sheet": "2020",
+      "row": 140,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "August",
+      "date_raw": "2021-02-08T00:00:00",
+      "accounting_year": 2020
+    },
+    {
+      "sheet": "2020",
+      "row": 141,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "September",
+      "date_raw": "2021-02-08T00:00:00",
+      "accounting_year": 2020
+    },
+    {
+      "sheet": "2020",
+      "row": 142,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "October",
+      "date_raw": "2021-02-08T00:00:00",
+      "accounting_year": 2020
+    },
+    {
+      "sheet": "2020",
+      "row": 143,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "November",
+      "date_raw": "2021-02-08T00:00:00",
+      "accounting_year": 2020
+    },
+    {
+      "sheet": "2020",
+      "row": 144,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "December",
+      "date_raw": "2021-02-08T00:00:00",
+      "accounting_year": 2020
+    },
+    {
+      "sheet": "2020",
+      "row": 174,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "October",
+      "date_raw": "2021-02-01T00:00:00",
+      "accounting_year": 2020
+    },
+    {
+      "sheet": "2020",
+      "row": 175,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "November",
+      "date_raw": "24/05/2021",
+      "accounting_year": 2020
+    },
+    {
+      "sheet": "2020",
+      "row": 176,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "December",
+      "date_raw": "24/05/2021",
+      "accounting_year": 2020
+    },
+    {
+      "sheet": "2020",
+      "row": 190,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "October",
+      "date_raw": "2021-02-01T00:00:00",
+      "accounting_year": 2020
+    },
+    {
+      "sheet": "2020",
+      "row": 191,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "November",
+      "date_raw": "24/05/2021",
+      "accounting_year": 2020
+    },
+    {
+      "sheet": "2020",
+      "row": 192,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "December",
+      "date_raw": "24/05/2021",
+      "accounting_year": 2020
+    },
+    {
+      "sheet": "2021",
+      "row": 12,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "August",
+      "date_raw": "2022-10-11T00:00:00",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 13,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "September",
+      "date_raw": "20/12/22",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 14,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "October",
+      "date_raw": "20/12/22",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 15,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "November",
+      "date_raw": "20/12/22",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 16,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "December",
+      "date_raw": "20/12/22",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 31,
+      "type": "payment_date_year_mismatch",
+      "member_id": "04",
+      "member_name": "MD. Minar Hossain",
+      "month": "November",
+      "date_raw": "5/11/0201",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 32,
+      "type": "payment_date_year_mismatch",
+      "member_id": "04",
+      "member_name": "MD. Minar Hossain",
+      "month": "December",
+      "date_raw": "2024-05-11T00:00:00",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 44,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "August",
+      "date_raw": "2022-10-11T00:00:00",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 45,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "September",
+      "date_raw": "20/11/22",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 46,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "October",
+      "date_raw": "20/11/22",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 47,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "November",
+      "date_raw": "20/11/22",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 48,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "December",
+      "date_raw": "2022-01-01T00:00:00",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 72,
+      "type": "payment_date_year_mismatch",
+      "member_id": "07",
+      "member_name": "Mst. Sabila Yasmin",
+      "month": "April",
+      "date_raw": "10/4/0201",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 88,
+      "type": "payment_date_year_mismatch",
+      "member_id": "09",
+      "member_name": "Md. Monir Hossain Mamun",
+      "month": "April",
+      "date_raw": "10/4/0201",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 110,
+      "type": "payment_date_year_mismatch",
+      "member_id": "10",
+      "member_name": "Md. Masudur Rahman",
+      "month": "October",
+      "date_raw": "30/6/22",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 111,
+      "type": "payment_date_year_mismatch",
+      "member_id": "10",
+      "member_name": "Md. Masudur Rahman",
+      "month": "November",
+      "date_raw": "30/6/22",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 112,
+      "type": "payment_date_year_mismatch",
+      "member_id": "10",
+      "member_name": "Md. Masudur Rahman",
+      "month": "December",
+      "date_raw": "30/6/22",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 174,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "October",
+      "date_raw": "24/08/23",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 175,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "November",
+      "date_raw": "24/08/23",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 176,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "December",
+      "date_raw": "24/08/23",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 190,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "October",
+      "date_raw": "24/08/23",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 191,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "November",
+      "date_raw": "24/08/23",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2021",
+      "row": 192,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "December",
+      "date_raw": "24/08/23",
+      "accounting_year": 2021
+    },
+    {
+      "sheet": "2022",
+      "row": 5,
+      "type": "date_needs_manual_review",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "January",
+      "date_raw": "1/1/22(22/7/22)d",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 6,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "February",
+      "date_raw": "2023-10-08T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 7,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "March",
+      "date_raw": "2023-10-08T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 8,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "April",
+      "date_raw": "2023-10-08T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 9,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "May",
+      "date_raw": "2023-10-08T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 10,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "June",
+      "date_raw": "18/9/23",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 11,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "July",
+      "date_raw": "18/9/23",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 12,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "August",
+      "date_raw": "18/9/23",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 13,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "September",
+      "date_raw": "18/9/23",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 14,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "October",
+      "date_raw": "18/9/23",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 15,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "November",
+      "date_raw": "13/10/23",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 16,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "December",
+      "date_raw": "13/10/23",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 37,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "January",
+      "date_raw": "2023-10-08T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 38,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "February",
+      "date_raw": "2023-10-08T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 39,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "March",
+      "date_raw": "2023-10-08T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 40,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "April",
+      "date_raw": "2023-10-08T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 41,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "May",
+      "date_raw": "2023-10-08T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 42,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "June",
+      "date_raw": "2023-10-08T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 43,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "July",
+      "date_raw": "13/10/23",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 44,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "August",
+      "date_raw": "13/10/23",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 45,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "September",
+      "date_raw": "13/10/23",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 46,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "October",
+      "date_raw": "13/10/23",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 47,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "November",
+      "date_raw": "13/10/23",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 48,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "December",
+      "date_raw": "13/10/23",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 96,
+      "type": "payment_date_year_mismatch",
+      "member_id": "09",
+      "member_name": "Md. Monir Hossain Mamun",
+      "month": "December",
+      "date_raw": "2023-01-12T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 165,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "January",
+      "date_raw": "2024-10-02T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 166,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "February",
+      "date_raw": "2024-10-02T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 167,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "March",
+      "date_raw": "2024-10-02T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 168,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "April",
+      "date_raw": "2024-10-03T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 169,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "May",
+      "date_raw": "2024-10-04T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 170,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "June",
+      "date_raw": "2024-10-05T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 171,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "July",
+      "date_raw": "2024-10-06T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 172,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "August",
+      "date_raw": "2024-10-07T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 173,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "September",
+      "date_raw": "2024-10-08T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 174,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "October",
+      "date_raw": "2024-10-09T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 175,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "November",
+      "date_raw": "2024-10-10T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 176,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "December",
+      "date_raw": "2024-10-11T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 181,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "January",
+      "date_raw": "2024-10-02T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 182,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "February",
+      "date_raw": "2024-10-02T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 183,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "March",
+      "date_raw": "2024-10-02T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 184,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "April",
+      "date_raw": "2024-10-03T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 185,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "May",
+      "date_raw": "2024-10-04T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 186,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "June",
+      "date_raw": "2024-10-05T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 187,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "July",
+      "date_raw": "2024-10-06T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 188,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "August",
+      "date_raw": "2024-10-07T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 189,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "September",
+      "date_raw": "2024-10-08T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 190,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "October",
+      "date_raw": "2024-10-09T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 191,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "November",
+      "date_raw": "2024-10-10T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2022",
+      "row": 192,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "December",
+      "date_raw": "2024-10-11T00:00:00",
+      "accounting_year": 2022
+    },
+    {
+      "sheet": "2023",
+      "row": 6,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "February",
+      "date_raw": "2024-02-04T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 7,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "March",
+      "date_raw": "2024-02-04T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 8,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "April",
+      "date_raw": "2024-02-04T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 9,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "May",
+      "date_raw": "2024-02-04T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 10,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "June",
+      "date_raw": "2024-02-04T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 11,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "July",
+      "date_raw": "2024-02-05T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 12,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "August",
+      "date_raw": "2024-02-06T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 13,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "September",
+      "date_raw": "2024-02-07T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 14,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "October",
+      "date_raw": "2024-02-08T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 15,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "November",
+      "date_raw": "2024-02-09T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 16,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "December",
+      "date_raw": "2024-02-10T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 27,
+      "type": "payment_date_year_mismatch",
+      "member_id": "04",
+      "member_name": "MD. Minar hossan",
+      "month": "July",
+      "date_raw": "16/4/24",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 28,
+      "type": "payment_date_year_mismatch",
+      "member_id": "04",
+      "member_name": "MD. Minar hossan",
+      "month": "August",
+      "date_raw": "16/4/24",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 29,
+      "type": "payment_date_year_mismatch",
+      "member_id": "04",
+      "member_name": "MD. Minar hossan",
+      "month": "September",
+      "date_raw": "16/4/24",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 30,
+      "type": "payment_date_year_mismatch",
+      "member_id": "04",
+      "member_name": "MD. Minar hossan",
+      "month": "October",
+      "date_raw": "16/4/24",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 31,
+      "type": "payment_date_year_mismatch",
+      "member_id": "04",
+      "member_name": "MD. Minar hossan",
+      "month": "November",
+      "date_raw": "16/4/24",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 32,
+      "type": "payment_date_year_mismatch",
+      "member_id": "04",
+      "member_name": "MD. Minar hossan",
+      "month": "December",
+      "date_raw": "16/4/24",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 38,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "February",
+      "date_raw": "2024-02-04T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 39,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "March",
+      "date_raw": "2024-02-04T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 40,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "April",
+      "date_raw": "2024-02-04T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 41,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "May",
+      "date_raw": "2024-02-04T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 42,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "June",
+      "date_raw": "2024-02-04T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 43,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "July",
+      "date_raw": "2024-02-05T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 44,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "August",
+      "date_raw": "2024-02-06T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 45,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "September",
+      "date_raw": "2024-02-07T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 46,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "October",
+      "date_raw": "2024-02-08T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 47,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "November",
+      "date_raw": "2024-02-09T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2023",
+      "row": 48,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "December",
+      "date_raw": "2024-02-10T00:00:00",
+      "accounting_year": 2023
+    },
+    {
+      "sheet": "2025",
+      "row": 13,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "September",
+      "date_raw": "2026-02-01T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 14,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "October",
+      "date_raw": "2026-07-05T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 15,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "November",
+      "date_raw": "2026-07-05T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 16,
+      "type": "payment_date_year_mismatch",
+      "member_id": "02",
+      "member_name": "Hafez Mohammad Kamruzzaman",
+      "month": "December",
+      "date_raw": "2026-07-05T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 45,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "September",
+      "date_raw": "2026-02-01T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 46,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "October",
+      "date_raw": "2026-07-05T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 47,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "November",
+      "date_raw": "2026-07-05T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 48,
+      "type": "payment_date_year_mismatch",
+      "member_id": "05",
+      "member_name": "Mst. Sadiya Akter",
+      "month": "December",
+      "date_raw": "7/5/0206",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 133,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "January",
+      "date_raw": "2026-07-07T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 134,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "February",
+      "date_raw": "2026-07-07T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 135,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "March",
+      "date_raw": "2026-07-07T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 136,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "April",
+      "date_raw": "2026-07-07T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 137,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "May",
+      "date_raw": "2026-07-07T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 138,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "June",
+      "date_raw": "2026-07-07T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 139,
+      "type": "date_needs_manual_review",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "July",
+      "date_raw": "7--7-26",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 140,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "August",
+      "date_raw": "2026-07-07T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 141,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "September",
+      "date_raw": "2026-07-07T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 142,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "October",
+      "date_raw": "2026-07-07T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 143,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "November",
+      "date_raw": "2026-07-07T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 144,
+      "type": "payment_date_year_mismatch",
+      "member_id": "12",
+      "member_name": "Riyad Arefin",
+      "month": "December",
+      "date_raw": "2026-07-07T00:00:00",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 171,
+      "type": "payment_date_year_mismatch",
+      "member_id": "15",
+      "member_name": "Mst. Jobeda Begum",
+      "month": "July",
+      "date_raw": "21/01/26",
+      "accounting_year": 2025
+    },
+    {
+      "sheet": "2025",
+      "row": 187,
+      "type": "payment_date_year_mismatch",
+      "member_id": "16",
+      "member_name": "Md. Haydar Ali",
+      "month": "July",
+      "date_raw": "21/01/26",
+      "accounting_year": 2025
+    }
+  ],
+  "important_notes": [
+    "All original raw dates are preserved in date_raw.",
+    "Excel formulas are preserved as text; formulas are not executed by this converter.",
+    "Calculated totals are component sums where source cells are numeric or blank.",
+    "Every row is marked REVIEW_REQUIRED and must be reviewed before posting to a live financial database.",
+    "Member identity matching is conservative: member ID and name pair are preserved; same IDs with different names are not automatically merged."
+  ]
+}
